@@ -27,5 +27,4 @@ const useStorageFB = (file) => {
 
   return  [progress, url, error] ;
 }
-
 export default useStorageFB;
